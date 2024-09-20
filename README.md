@@ -26,10 +26,10 @@ Program ini adalah aplikasi desktop yang mengimplementasikan tiga metode enkrips
    - Buka proyek ini menggunakan IntelliJ IDEA atau IDE Java lainnya.
 
 3. **Buat Kelas Utama**
-   - Pastikan Anda memiliki kelas `CipherAppSwing` sebagai titik masuk aplikasi.
+   - Pastikan Anda memiliki kelas `Main` sebagai titik masuk aplikasi.
 
 4. **Compile dan Jalankan Program**
-   - Jalankan kelas `CipherAppSwing`. Ini akan membuka jendela aplikasi.
+   - Jalankan kelas `Main`. Ini akan membuka jendela aplikasi.
    - Anda akan melihat antarmuka yang memiliki pilihan untuk memasukkan pesan, kunci, dan memilih jenis cipher.
 
 5. **Menggunakan Aplikasi**
@@ -43,7 +43,7 @@ Program ini adalah aplikasi desktop yang mengimplementasikan tiga metode enkrips
 
 1. **Enkripsi**
    - Untuk mengenkripsi kata "HELP" dengan kunci "ABCDEFGHIJKL":
-     - Pilih "Hill" dari dropdown.
+     - Pilih "Vigenere" dari dropdown.
      - Masukkan "HELP" di kolom pesan.
      - Masukkan "ABCDEFGHIJKL" di kolom kunci.
      - Klik "Encrypt" untuk mendapatkan hasil enkripsi.
