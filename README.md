@@ -18,7 +18,7 @@ Program ini adalah aplikasi desktop yang mengimplementasikan tiga metode enkrips
 1. **Clone Repository**
    - Clone repositori ini ke mesin lokal Anda:
      ```bash
-     git clone https://github.com/username/repo-name.git
+     git clone [https://github.com/username/repo-name](https://github.com/OreNanda/kriptografi-chiper).git
      cd repo-name
      ```
 
